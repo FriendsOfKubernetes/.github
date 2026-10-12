@@ -1,4 +1,8 @@
-# FriendsOfKubernetes
+<p align="center">
+  <img src="logo.svg" alt="FriendsOfKubernetes" width="128" height="128">
+</p>
+
+<h1 align="center">FriendsOfKubernetes</h1>
 
 Open-source tools for people who run their own Kubernetes clusters — made for ourselves and our team, shared with
 anyone who finds them useful.
